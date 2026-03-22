@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-// @ts-ignore - Local module resolution bypassed for Vercel deploy
 import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 
